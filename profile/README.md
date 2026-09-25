@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://elucenia.org">elucenia.org</a> ·
   <a href="https://fgxdev.com/elucenia/">about the project</a> ·
-  <a href="mailto:contato@fgxdev.com">contato@fgxdev.com</a>
+  <a href="mailto:contato@elucenia.org">contato@elucenia.org</a>
 </p>
 
 Science moves at the speed of its slowest loop: form a hypothesis, gather evidence, test it, publish, repeat. Most of that loop is not thinking. It is searching, cleaning, reconciling and waiting. Those are the parts software is good at.
@@ -40,7 +40,7 @@ Tecnologia para acelerar a descoberta científica. Uma cadeia médica e científ
 
 Esta organização publica ferramentas open source, gratuitas, para médicos, clínicas e agências usarem em sites médicos: com fontes, sem telemetria, sem dados de paciente, testadas antes de cada versão. Nenhuma delas substitui a avaliação médica.
 
-Fundada por [Felipe Guedes](https://fgxdev.com/pt/), Engenheiro de Software e Arquiteto de Sistemas, Toledo, Paraná. Contato: contato@fgxdev.com
+Fundada por [Felipe Guedes](https://fgxdev.com/pt/), Engenheiro de Software e Arquiteto de Sistemas, Toledo, Paraná. Contato: contato@elucenia.org
 </details>
 
 <p align="center"><sub>Elucenia and the Convergence symbol are trademarks of Elucenia · brand blue #006BFB · © 2026 Felipe Guedes</sub></p>
