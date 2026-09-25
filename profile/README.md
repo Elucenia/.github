@@ -1,4 +1,9 @@
-<h1 align="center">Elucenia</h1>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elucenia/.github/main/profile/elucenia-on-dark-tagline.png">
+    <img alt="Elucenia · AI for Scientific Discovery" src="https://raw.githubusercontent.com/Elucenia/.github/main/profile/elucenia-primary-tagline.png" width="520">
+  </picture>
+</p>
 <p align="center"><b>Technology to accelerate scientific discovery. A global medical and scientific network.</b></p>
 <p align="center">
   <a href="https://elucenia.org">elucenia.org</a> ·
@@ -37,3 +42,5 @@ Esta organização publica ferramentas open source, gratuitas, para médicos, cl
 
 Fundada por [Felipe Guedes](https://fgxdev.com/pt/), Engenheiro de Software e Arquiteto de Sistemas, Toledo, Paraná. Contato: contato@fgxdev.com
 </details>
+
+<p align="center"><sub>Elucenia and the Convergence symbol are trademarks of Elucenia · brand blue #006BFB · © 2026 Felipe Guedes</sub></p>
