@@ -1,4 +1,4 @@
-# Revisão clínica das ferramentas Elucenia · roteiro para o médico revisor
+# Revisão clínica das ferramentas ELUCENIA · roteiro para o médico revisor
 
 Cada ferramenta da organização github.com/Elucenia reproduz uma fórmula ou escore publicado. A aritmética, a robustez e a segurança do código foram auditadas e verificadas por reimplementação independente (25/09/2026). O que falta, e só um médico pode dar, é a **revisão clínica**: confirmar que a fórmula, a versão, a população, as unidades e os limites estão certos para uso assistencial no Brasil.
 
@@ -56,4 +56,4 @@ No `README.md`, seção "Situação": trocar "Revisão documental e clínica ind
 
 Não valida a ferramenta para uso regulatório (ANVISA) nem a torna produto médico. Ela atesta que a reprodução é fiel à fonte e adequada à população indicada. O uso assistencial continua sob responsabilidade do médico que a utiliza, como diz cada `README.md`.
 
-Elucenia · contato@elucenia.org · Copyright (c) 2026 Elucenia · Felipe Guedes.
+ELUCENIA · contato@elucenia.org · Copyright (c) 2026 ELUCENIA · Felipe Guedes.
