@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elucenia/.github/main/profile/elucenia-on-dark-tagline.png">
-    <img alt="Elucenia · AI for Scientific Discovery" src="https://raw.githubusercontent.com/Elucenia/.github/main/profile/elucenia-primary-tagline.png" width="520">
+    <img alt="ELUCENIA · AI for Scientific Discovery" src="https://raw.githubusercontent.com/Elucenia/.github/main/profile/elucenia-primary-tagline.png" width="520">
   </picture>
 </p>
 <p align="center"><b>Connect science. Advance.</b><br>One mission: cancer. Connected scientific intelligence.</p>
@@ -16,7 +16,7 @@
 
 People, evidence and in-house agents connected in a scientific infrastructure that turns scattered knowledge into traceable, collaborative investigations open to human review.
 
-Research advances at different paces, in different formats and places. Relevant evidence can remain isolated when a new question needs an answer. Elucenia narrows that gap: it organizes signals, context, differences and relationships to guide new hypotheses and investigations. Papers, clinical trials, laboratory data, clinical observations and epidemiological signals describe parts of the same challenge; the scientific question connects them. Incompatible, negative or inconclusive results are scientific information too.
+Research advances at different paces, in different formats and places. Relevant evidence can remain isolated when a new question needs an answer. ELUCENIA narrows that gap: it organizes signals, context, differences and relationships to guide new hypotheses and investigations. Papers, clinical trials, laboratory data, clinical observations and epidemiological signals describe parts of the same challenge; the scientific question connects them. Incompatible, negative or inconclusive results are scientific information too.
 
 **AI supports. Science remains human.** In-house agents follow evidence, organize signals and suggest connections. Doctors, researchers and scientists examine the sources, challenge the inferences and define the next steps. A commitment to the scientific method, without promises of a cure or automatic discoveries.
 
@@ -61,4 +61,4 @@ Esta organização publica o código das calculadoras e escores clínicos do ace
 Fundada por [Felipe Guedes](https://fgxdev.com/pt/), Engenheiro de Software e Arquiteto de Sistemas, Toledo, Paraná. Contato: contato@elucenia.org
 </details>
 
-<p align="center"><sub>Elucenia and the Convergence symbol are trademarks of Elucenia · brand blue #006BFB · © 2026 Elucenia · Felipe Guedes</sub></p>
+<p align="center"><sub>ELUCENIA and the Convergence symbol are trademarks of ELUCENIA · brand blue #006BFB · © 2026 ELUCENIA · Felipe Guedes</sub></p>
