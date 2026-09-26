@@ -29,6 +29,10 @@ This organization publishes free, open source tools that any physician, clinic o
 
 Every tool follows the same rules: original code, zero secrets, zero real health data, clear license, authorship preserved in every file. Tools are for support only; none of them replaces a physician's judgement.
 
+- **Catalogue:** [fgxdev.com/elucenia/tools](https://fgxdev.com/elucenia/tools/) · em português: [fgxdev.com/pt/elucenia/ferramentas](https://fgxdev.com/pt/elucenia/ferramentas/)
+- **Clinical review guide** for physicians: [CLINICAL-REVIEW.md](https://github.com/Elucenia/.github/blob/main/CLINICAL-REVIEW.md)
+- **Status:** every tool is audited (package tests, property tests, security, independent formula check) and marked as a technical reproduction pending clinical review.
+
 ## Who
 
 Founded by [Felipe Guedes](https://fgxdev.com), Software Engineer and Systems Architect, Toledo, Paraná, Brazil, son of Dr. Pedro Moretti Guedes, a physician who treated for free those who could not pay ([his memorial](https://pedromorettiguedes.com.br)). Read [why](https://fgxdev.com/elucenia/).
